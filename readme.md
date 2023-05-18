@@ -2,7 +2,7 @@
 
 ## Simple test of creating a backend with ktor
 
-#### Configurado para pruebas en Localhost
+#### Configured for testing on Localhost
 
 ```html
     http://127.0.0.1:8080
@@ -83,7 +83,7 @@
     "200"
 ```
 ```html
-    Usuario creado correctamente
+    User successfully created
 ```
 <br>
 
@@ -98,6 +98,6 @@
     "200"
 ```
 ```html
-    Usuario eliminado correctamente
+    User successfully deleted
 ```
 
