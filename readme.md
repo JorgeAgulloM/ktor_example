@@ -4,7 +4,7 @@
 
 #### Configurado para pruebas en Localhost
 
-```json
+```html
     http://127.0.0.1:8080
 ```
 ## REST access:
@@ -19,7 +19,7 @@
 ```java
     "200"
 ```
-```json
+```html
     Hello World!
 ```
 
