@@ -2,6 +2,9 @@
 
 ## Simple test of creating a backend with ktor
 
+- <a href="https://start.ktor.io">Official page to create a start-up project</a>
+- <a href="https://ktor.io/docs/welcome.html">Official documentation</a>
+
 #### Configured for testing on Localhost
 
 ```html
